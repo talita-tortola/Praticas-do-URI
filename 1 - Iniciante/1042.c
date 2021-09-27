@@ -1,7 +1,6 @@
 // Iniciante - 1042 - Sort Simples
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(){
 	
